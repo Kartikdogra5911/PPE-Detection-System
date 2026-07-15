@@ -21,3 +21,5 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+# Pretrained YOLO model
+yolo11n.pt
